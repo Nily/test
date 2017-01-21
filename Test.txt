@@ -1,1 +1,4 @@
-I am in the branch to change the file
+ I am in the branch to change the file
+
+1. modified
+2. At newbranch:
